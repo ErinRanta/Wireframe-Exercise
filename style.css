@@ -81,4 +81,24 @@ header {
     margin-bottom: 10px;
   }
   
-  
+  footer {
+    height: 100px;
+    background-color: rgb(1, 24, 4);
+    margin-top: 30px;
+  }
+   button:hover {
+    background-color: rgb(25, 206, 115);
+    transition: 350ms;
+  }
+   button {
+    background-color: rgb(95, 9, 112);
+    color: rgb(0, 2, 10);
+    transition: 350ms;
+    width: 150px;
+    height: 40px;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+ <button>Call to Action</button>
+ 
